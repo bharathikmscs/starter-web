@@ -3,6 +3,8 @@
 
 # TEAM
 
+    Chris    chris@gmail.com
+     
     <name> -- <role> -- <twitter>
 
 # THANKS
