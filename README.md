@@ -1,6 +1,6 @@
 # STARTER WEB PROJECT
 
-This is a simple Web Project. Adding text from master branch for Rebasing example.
+This is a simple Web Project. Adding text from master branch for Rebasing example. Adding more text from Feature branch for Rebasing example
 
 ## Introduction
 
